@@ -7,6 +7,12 @@
   height: 80px;
 }
 
+.date-input {
+  height: 50px !important;
+  border-radius: 20px !important;
+  border-color: red !important;
+}
+
 .App-header {
   background-color: #222;
   height: 150px;
@@ -25,4 +31,12 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+input.date-input.react-datepicker-ignore-onclickoutside {
+  height: 50px !important;
+}
+
+body {
+  background-color: yellow !important;
 }

@@ -8,11 +8,9 @@ import {
   Datagrid,
   TextField,
   TextInput,
-  EditButton,
   Show,
   SimpleShowLayout,
   DateField,
-  ShowButton,
   CloneButton,
   RichTextField,
 } from 'react-admin';

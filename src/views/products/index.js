@@ -13,12 +13,9 @@ import {
   ImageInput,
   ImageField,
   ReferenceField,
-  CreateButton,
-  ShowButton,
   Show,
   SimpleShowLayout,
   DateField,
-  EditButton,
   CloneButton,
 } from 'react-admin';
 
