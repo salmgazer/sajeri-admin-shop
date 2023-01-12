@@ -16,7 +16,7 @@
     "ra-data-feathers": "^2.0.7",
     "ra-input-rich-text": "^2.6.0",
     "react": "^16.5.2",
-    "react-admin": "^2.6.1",
+    "react-admin": "^4.7.0",
     "react-datepicker": "^2.1.0",
     "react-dom": "^16.5.2",
     "reselect": "^4.0.0",
